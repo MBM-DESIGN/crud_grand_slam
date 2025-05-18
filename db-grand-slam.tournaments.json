@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa89e"
+  },
+  "name": "Australian Open",
+  "year": 2015,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Serena Williams"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa89f"
+  },
+  "name": "Roland-Garros",
+  "year": 2015,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Stan Wawrinka",
+  "womenSinglesChampion": "Serena Williams"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a0"
+  },
+  "name": "Wimbledon",
+  "year": 2015,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Serena Williams"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a1"
+  },
+  "name": "US Open",
+  "year": 2015,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Flavia Pennetta"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a2"
+  },
+  "name": "Australian Open",
+  "year": 2016,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Angelique Kerber"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a3"
+  },
+  "name": "Roland-Garros",
+  "year": 2016,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Garbiñe Muguruza"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a4"
+  },
+  "name": "Wimbledon",
+  "year": 2016,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Andy Murray",
+  "womenSinglesChampion": "Serena Williams"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a5"
+  },
+  "name": "US Open",
+  "year": 2016,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Stan Wawrinka",
+  "womenSinglesChampion": "Angelique Kerber"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a6"
+  },
+  "name": "Australian Open",
+  "year": 2017,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Roger Federer",
+  "womenSinglesChampion": "Serena Williams"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a7"
+  },
+  "name": "Roland-Garros",
+  "year": 2017,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Rafael Nadal",
+  "womenSinglesChampion": "Jeļena Ostapenko"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a8"
+  },
+  "name": "Wimbledon",
+  "year": 2017,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Roger Federer",
+  "womenSinglesChampion": "Garbiñe Muguruza"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8a9"
+  },
+  "name": "US Open",
+  "year": 2017,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Rafael Nadal",
+  "womenSinglesChampion": "Sloane Stephens"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8aa"
+  },
+  "name": "Australian Open",
+  "year": 2018,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Roger Federer",
+  "womenSinglesChampion": "Caroline Wozniacki"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8ab"
+  },
+  "name": "Roland-Garros",
+  "year": 2018,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Rafael Nadal",
+  "womenSinglesChampion": "Simona Halep"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8ac"
+  },
+  "name": "Wimbledon",
+  "year": 2018,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Angelique Kerber"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8ad"
+  },
+  "name": "US Open",
+  "year": 2018,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Naomi Osaka"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8ae"
+  },
+  "name": "Australian Open",
+  "year": 2019,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Naomi Osaka"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8af"
+  },
+  "name": "Roland-Garros",
+  "year": 2019,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Rafael Nadal",
+  "womenSinglesChampion": "Ashleigh Barty"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b0"
+  },
+  "name": "Wimbledon",
+  "year": 2019,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Simona Halep"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b1"
+  },
+  "name": "US Open",
+  "year": 2019,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Rafael Nadal",
+  "womenSinglesChampion": "Bianca Andreescu"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b2"
+  },
+  "name": "Australian Open",
+  "year": 2020,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Sofia Kenin"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b3"
+  },
+  "name": "Roland-Garros",
+  "year": 2020,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Rafael Nadal",
+  "womenSinglesChampion": "Iga Świątek"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b4"
+  },
+  "name": "Wimbledon",
+  "year": 2020,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Cancelled due to Pandemic",
+  "womenSinglesChampion": "Cancelled due to Pandemic"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b5"
+  },
+  "name": "US Open",
+  "year": 2020,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Dominic Thiem",
+  "womenSinglesChampion": "Naomi Osaka"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b6"
+  },
+  "name": "Australian Open",
+  "year": 2021,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Naomi Osaka"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b7"
+  },
+  "name": "Roland-Garros",
+  "year": 2021,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Barbora Krejčíková"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b8"
+  },
+  "name": "Wimbledon",
+  "year": 2021,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Ashleigh Barty"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8b9"
+  },
+  "name": "US Open",
+  "year": 2021,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Daniil Medvedev",
+  "womenSinglesChampion": "Emma Raducanu"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8ba"
+  },
+  "name": "Australian Open",
+  "year": 2022,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Rafael Nadal",
+  "womenSinglesChampion": "Ashleigh Barty"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8bb"
+  },
+  "name": "Roland-Garros",
+  "year": 2022,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Rafael Nadal",
+  "womenSinglesChampion": "Iga Świątek"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8bc"
+  },
+  "name": "Wimbledon",
+  "year": 2022,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Elena Rybakina"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8bd"
+  },
+  "name": "US Open",
+  "year": 2022,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Carlos Alcaraz",
+  "womenSinglesChampion": "Iga Świątek"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8be"
+  },
+  "name": "Australian Open",
+  "year": 2023,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Aryna Sabalenka"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8bf"
+  },
+  "name": "Roland-Garros",
+  "year": 2023,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Carlos Alcaraz",
+  "womenSinglesChampion": "Iga Świątek"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8c0"
+  },
+  "name": "Wimbledon",
+  "year": 2023,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Carlos Alcaraz",
+  "womenSinglesChampion": "Markéta Vondroušová"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8c1"
+  },
+  "name": "US Open",
+  "year": 2023,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Novak Djokovic",
+  "womenSinglesChampion": "Coco Gauff"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8c2"
+  },
+  "name": "Australian Open",
+  "year": 2024,
+  "surface": "Hard",
+  "location": "Australia",
+  "menSinglesChampion": "Jannik Sinner",
+  "womenSinglesChampion": "Aryna Sabalenka"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8c3"
+  },
+  "name": "Roland-Garros",
+  "year": 2024,
+  "surface": "Clay",
+  "location": "France",
+  "menSinglesChampion": "Carlos Alcaraz",
+  "womenSinglesChampion": "Iga Świątek"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8c4"
+  },
+  "name": "Wimbledon",
+  "year": 2024,
+  "surface": "Grass",
+  "location": "England",
+  "menSinglesChampion": "Carlos Alcaraz",
+  "womenSinglesChampion": "Barbora Krejčíková"
+},
+{
+  "_id": {
+    "$oid": "6829398440c7b7f771afa8c5"
+  },
+  "name": "US Open",
+  "year": 2024,
+  "surface": "Hard",
+  "location": "USA",
+  "menSinglesChampion": "Jannik Sinner",
+  "womenSinglesChampion": "Aryna Sabalenka"
+}]
