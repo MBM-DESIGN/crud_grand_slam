@@ -56,3 +56,33 @@ La operación 4 fue procedad con éxito y se borró.
 acknowledged: true,
 deletedCount: 0
 }
+
+Cuando implemento las funciones CRUD contenidas en el archivo:index.ts, parto de la siguiente estructura del modelo.
+interface IGrandSlam {
+name: string; //nombre del torneo:'Australian Open' | 'Roland-Garros' | 'Wimbledon' | 'US Open';
+year: number; //año en que se jugó el torneo.
+surface: string; //superficie de la cancha de tenis:'Hard' | 'Clay' | 'Grass';
+location: string; //país donde se realiza:'Australian' | 'France' | 'England' | 'USA';
+menSinglesChampion: string; //nombre del campeón masculino.
+womenSinglesChampion: string; //nombre de la campeona femenina.
+}
+
+El esquema del modelo es:
+const GrandSlamSchema = new Schema({
+name: {type: String,required: true,enum: ['Australian Open', 'Roland-Garros', 'Wimbledon', 'US Open']}, //asegura que el nombre sea uno de los 4 Grand Slams.
+year: {type: Number,required: true, min: 1877}, //año de inicio de Wimbledon, como un punto de referencia histórico.
+surface: {type: String,required: true,enum: ['Hard', 'Clay', 'Grass']}, //las superficies típicas
+location: {type: String,required: true},
+menSinglesChampion: {type: String,required: true}, //asumimos que siempre hay un campeón.
+womenSinglesChampion: {type: String,required: true} //asumimos que siempre hay una campeona.
+}, {
+versionKey: false
+})
+
+Las funciones disponibles son:
+✅Conectar a la Base de Datos: await connectMongoDb()
+✅Agregar torneo: await addNewGrandSlam({ name, year, surface, location,menSinglesChampion, womenSinglesChampion })
+📜Obtener todos los torneos Grand Slams jugados en los últimos 10 años (2015-2024): await getGrandSlams()
+📃Obtener un Grand Slam por su ID: await getGrandSlam(id)
+✏️Actualizar un torneo de Grand Slam: await updateGrandSlam(id, { year: 2020 })
+🔥Eliminar torneo de Grand Slam: await deleteGrandSlam(id)
